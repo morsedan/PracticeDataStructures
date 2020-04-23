@@ -1,7 +1,7 @@
 # Data Structures FAQ
 ## Contents
 ### General
-
+ 
 #### My imports aren't working, help!
 Python can be tricky with how imports work and can vary from environment to environment.  If you are having trouble, the easiest solution is to copy the file you want to import into the same folder as the file you want to import it into and use `from file import class`.
 
